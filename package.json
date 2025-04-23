@@ -2,7 +2,7 @@
   "name": "mock-repo-with-also-one-dependency",
   "version": "1.0.0",
   "dependencies": {
-    "@many-repo-manager-poc/mock-design-system-repo": "2.0.0"
+    "@many-repo-manager-poc/mock-design-system-repo": "8.0.5"
   },
   "devDependencies": {}
 }
